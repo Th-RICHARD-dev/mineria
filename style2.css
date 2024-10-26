@@ -11805,6 +11805,39 @@ input[type="file"]:focus-visible {
     overflow: hidden;
 }
 
+.pagination {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pagination .prev {
+    border-radius: 5px 0 0 5px;
+    padding: 2.5px 7.5px 2.5px 10px;
+    background-color: var(--neutrals--30);
+    transition: 0.5s ease;
+}
+
+.pagination .prev.active {
+    border-radius: 5px;
+    padding: 5px 7.5px 5px 10px;
+    background-color: var(--neutrals--0-white);
+}
+
+.pagination .next {
+    border-radius: 0 5px 5px 0;
+    padding: 2.5px 10px 2.5px 7.5px;
+    background-color: var(--neutrals--30);
+    transition: 0.5s ease;
+}
+
+.pagination .next.active {
+    border-radius: 5px;
+    padding: 5px 10px 5px 7.5px;
+    background-color: var(--neutrals--0-white);
+}
+
 @media screen and (max-width: 1000px) {
     .list-product {
         grid-template-columns: repeat(3, 1fr);

@@ -2394,12 +2394,12 @@ textarea.w-select {
     --link-colors--link-lime-100: var(--primary-lime--100);
     --text-colors--text-color-lime-200: var(--primary-lime--200);
     --link-colors--link-ocean-80: var(--primary-ocean--80);
-    --primary-ocean--200: #287379;
-    --primary-lime--200: #51b8b8;
+    --primary-ocean--200: #0e69b3;
+    --primary-lime--200: #19c3b7;
     --border-colors--border-color-ocean-80: var(--primary-ocean--80);
-    --primary-ocean--250: #1c5d62;
+    --primary-ocean--250: #1a5a8f;
     --text-colors--text-color-neutrals-40: var(--neutrals--40);
-    --primary-lime--100: #51b8b8;
+    --primary-lime--100: #19c3b7;
     --bg-colors--bg-color-lime-100: var(--primary-lime--100);
     --bg-colors--bg-color-lime-200: var(--text-colors--text-color-lime-200);
     --text-colors--text-color-lime-100: var(--primary-lime--100);
@@ -2419,8 +2419,8 @@ textarea.w-select {
     --neutrals--40: #d4d4d4;
     --neutrals--30: #e9e9e9;
     --neutrals--10-headings: #f9f9f9;
-    --primary-ocean--300-headings: #2a3838;
-    --primary-ocean--100: #6abeb9;
+    --primary-ocean--300-headings: #283540;
+    --primary-ocean--100: #5dafab;
     --primary-ocean--50: #d2e7ed;
     --primary-ocean--20: #ecf5f7;
     --secondary-lavender--100: #8380ee;
